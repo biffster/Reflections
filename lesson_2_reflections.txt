@@ -6,4 +6,8 @@ Can't track changes in a repository that doesn't exist!
 How can you use the staging area to make sure you have one commit per logical change?
 Add all incremental updates into staging, but don't actually run the commit until everything you want added has been staged.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Stealing an example from the text, testing experimental features, checking to see if the feature works and should be introduced into master.
+Creating a new branch for something like this creates distinct versions that never touch.
+
 
