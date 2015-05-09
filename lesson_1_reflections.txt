@@ -30,3 +30,5 @@ What happens when you initialize a repository? Why do you need to do it?
 Creates the hidden .git directory, includes metadata
 Can't track changes in a repository that doesn't exist!
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The working directory has "live" files that are currently being worked on. The staging area has the latest copies that you wanted to be submitted. The repository holds the files you indicated
