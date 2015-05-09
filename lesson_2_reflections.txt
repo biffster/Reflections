@@ -3,3 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 Creates the hidden .git directory, includes metadata
 Can't track changes in a repository that doesn't exist!
 
+How can you use the staging area to make sure you have one commit per logical change?
+Add all incremental updates into staging, but don't actually run the commit until everything you want added has been staged.
+
+
