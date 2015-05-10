@@ -10,4 +10,6 @@ What are some situations when branches would be helpful in keeping your history 
 Stealing an example from the text, testing experimental features, checking to see if the feature works and should be introduced into master.
 Creating a new branch for something like this creates distinct versions that never touch.
 
+How do the diagrams help you visualize the branch structure?
+They create a graphical way to see branches and how commits relate to the various branches.
 
