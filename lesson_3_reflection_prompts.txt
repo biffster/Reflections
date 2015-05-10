@@ -4,4 +4,9 @@ Two functions come to mind: when sharing code between computers (instead of havi
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You will probably have changes made in your local repository that you aren't ready to be made public - e.g. you are working on features but haven't implemented all of them yet.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- Forks is the equivalent of clone, but all repositories exist on github
+- Clones creates copy of repository either remote -> local or local -> local
+- Branches are different paths on a local or remote repository
+
 
