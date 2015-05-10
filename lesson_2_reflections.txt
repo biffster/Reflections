@@ -13,3 +13,8 @@ Creating a new branch for something like this creates distinct versions that nev
 How do the diagrams help you visualize the branch structure?
 They create a graphical way to see branches and how commits relate to the various branches.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The resulting code incorporates everything that has been changed in the new branch into the destination (e.g. Master).
+git doesn't really give a good visualization of the flow of a merge; diagramming it out makes it easier to understand what's being merged and where the shared parent was.
+
+
