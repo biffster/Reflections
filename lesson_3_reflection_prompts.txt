@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Two functions come to mind: when sharing code between computers (instead of having to sync files to each local computer) and, more frequently, when sharing work with others.
