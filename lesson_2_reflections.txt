@@ -17,4 +17,6 @@ What is the result of merging two branches together? Why do we represent it in t
 The resulting code incorporates everything that has been changed in the new branch into the destination (e.g. Master).
 git doesn't really give a good visualization of the flow of a merge; diagramming it out makes it easier to understand what's being merged and where the shared parent was.
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging: faster, should make merging easier
+Manual merging: safer, you control what lines are merged, and get to double-verify that the wanted changes are made
