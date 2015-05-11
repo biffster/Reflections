@@ -14,3 +14,11 @@ Being able to refer back to the last known state of the remote will allow a pers
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You would need to set up remote branches. This isn't necessarily harder, since git keeps track of which branches are local and which are remote. But it is annoying.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Making a separate branch has the benefit of not interacting with master until you are certain that the branch has all the changes/additions you want.
+This also has the benefit of making it easy to collaborate. Everyone can check out their own branch, which should reduce having to wait for another person to finish before you can start working on your part.
+
+
+
+
