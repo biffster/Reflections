@@ -10,4 +10,7 @@ Describe the differences between forks, clones, and branches. When would you use
 - Branches are different paths on a local or remote repository
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-Being able to refer back to the last known state of the remote will allow a person to roll back to the remote's last version 
+Being able to refer back to the last known state of the remote will allow a person to roll back to the remote's last version
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You would need to set up remote branches. This isn't necessarily harder, since git keeps track of which branches are local and which are remote. But it is annoying.
